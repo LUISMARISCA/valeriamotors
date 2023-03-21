@@ -1,0 +1,11 @@
+@import url("div 2.css");
+div{
+	border:solid 5px;
+	display:flex;
+	padding-top: 76px;
+	padding: 5px;
+	text-align:justify;
+	color:black;
+	
+}
+
